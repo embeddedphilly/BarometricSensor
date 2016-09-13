@@ -30,8 +30,7 @@ modes for this project, but make sure your interface will be able to
 support all of the modes of the protocol for any future uses of the
 interface in other projects.
 
-## Implementation of the Barometric Pressure Sensor Protocol Using the
-I2C Interface
+## Implementation of the Barometric Pressure Sensor Protocol Using the I2C Interface
 
 This will be a module that assumes the I2C driver already exists, and,
 given the functionality in the interface, creates an easy to use
