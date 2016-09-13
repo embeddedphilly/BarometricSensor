@@ -1,6 +1,6 @@
-% I2C Barometric Sensor Project - MPL115A2
-% Embedded Philly
-%
+# I2C Barometric Sensor Project - MPL115A2
+## Embedded Philly
+
 
 # Overview
 
